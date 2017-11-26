@@ -7,7 +7,7 @@ Getting Started
 
 To use Qt Network classes,add this directive into the C++ files:
 
-**#include QtNetwork>**
+**#include < QtNetwork >**
 To link against the Qt Network module, add this line to the project file:
 
 **QT += network**
